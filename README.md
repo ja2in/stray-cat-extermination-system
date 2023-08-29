@@ -12,3 +12,5 @@
 * DESKTOP (Windows 10)
 * 화상 카메라 (Microsoft Lifecam HD-3000)
 * 서보 모터, 녹음모듈
+
+## 👌 테스트(Test)
