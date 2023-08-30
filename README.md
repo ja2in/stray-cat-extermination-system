@@ -20,4 +20,14 @@
   <tr>
 </table>
 
-- [23.08.29] youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행 
+* [23.08.29] youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행
+<br></br>
+<br></br>
+
+<table>
+  <tr>
+    <td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/e5064ec5-9997-41af-a27e-6a6ab0f73f34" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/abf1812c-f30f-4f40-b7c7-7b50520877b5" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/6bdbd367-37fe-4582-bb47-41a541d4d16c" /></td>
+  <tr>
+</table>
+
+* [23.08.30] cvlibTestCode.py 코드를 이용해 youtubeTestCode.py에서보다 좀 더 정확한 측정을 진행
