@@ -13,7 +13,7 @@
 * 화상 카메라 (Microsoft Lifecam HD-3000)
 * 서보 모터, 녹음모듈
 <br></br>
-## 👌 테스트(Test)
+## 👌 OpenCV Code Test
 <table>
   <tr>
     <td><img alt="" src="https://github.com/ja2in/Data_Structure/assets/101400945/f79c4b59-681b-4f88-a4c6-faf34a847d41" /></td><td><img alt="" src="https://github.com/ja2in/Data_Structure/assets/101400945/826aadf1-76cf-471c-aa09-23843416f8c3 " /></td><td><img alt="" src="https://github.com/ja2in/Data_Structure/assets/101400945/8b06142c-c6e7-4502-8d56-66ee049322f7" /></td>
