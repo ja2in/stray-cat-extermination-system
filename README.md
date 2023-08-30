@@ -20,4 +20,4 @@
   <tr>
 </table>
 
-youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행하였다.
+- [23.08.29] youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행 
