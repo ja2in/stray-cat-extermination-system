@@ -1,10 +1,9 @@
-
 import cv2
 import cvlib as cv
 from cvlib.object_detection import draw_bbox
 import pafy
 
-url = 'https://www.youtube.com/watch?v=VsBdl9tFhFk'
+url = 'youtube link'
 video = pafy.new(url)
 best_stream = video.getbest()
 cap = cv2.VideoCapture()
