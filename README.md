@@ -31,3 +31,14 @@
 </table>
 
 * [23.08.30] cvlibTestCode.py 코드를 이용해 youtubeTestCode.py에서보다 좀 더 정확한 측정을 진행
+
+<br></br>
+<br></br>
+
+<table>
+  <tr>
+    <td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/9c7a740b-8d5d-487d-b6f5-5ef3ad13e8f4" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/f0658f27-a074-4846-9899-f71cfb3979b6" /></td>
+  <tr>
+</table>
+
+* [23.09.06] moreAnimalTestCode.py 코드를 이용해 고양이 뿐만 아니라 다양한 동물들도 인식할 수 있도록 수정
