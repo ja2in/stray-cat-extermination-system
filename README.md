@@ -42,3 +42,15 @@
 </table>
 
 * [23.09.06] moreAnimalTestCode.py 코드를 이용해 고양이 뿐만 아니라 다양한 동물들도 인식할 수 있도록 수정
+
+<br></br>
+<br></br>
+
+<table>
+  <tr>
+    <td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/df39d4c8-84ed-439f-940c-4438c1006764" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/314754bd-985d-4318-9c3b-1f28b1d2815b" /></td>
+  <tr>
+</table>
+
+* [23.09.11] 기존 코드를 yolov3를 사용한 using yolov3.py 코드로 변경해 더 정확하고 다양한 객체 측정을 가능하게 함
+
