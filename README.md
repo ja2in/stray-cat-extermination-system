@@ -21,7 +21,8 @@
   <tr>
 </table>
 
-* [23.08.29] youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행
+[23.08.29]
+* youtubeTestCode.py 코드와 유튜브 영상을 통해 '고양이 얼굴 인식' 테스트를 진행
 <br></br>
 <br></br>
 
@@ -31,7 +32,8 @@
   <tr>
 </table>
 
-* [23.08.30] cvlibTestCode.py 코드를 이용해 youtubeTestCode.py에서보다 좀 더 정확한 측정을 진행
+[23.08.30] 
+* cvlibTestCode.py 코드를 이용해 youtubeTestCode.py에서보다 좀 더 정확한 측정을 진행
 
 <br></br>
 <br></br>
@@ -42,7 +44,8 @@
   <tr>
 </table>
 
-* [23.09.06] moreAnimalTestCode.py 코드를 이용해 고양이 뿐만 아니라 다양한 동물들도 인식할 수 있도록 수정
+[23.09.06] 
+* moreAnimalTestCode.py 코드를 이용해 고양이 뿐만 아니라 다양한 동물들도 인식할 수 있도록 수정
 
 <br></br>
 <br></br>
@@ -53,5 +56,20 @@
   <tr>
 </table>
 
-* [23.09.11] 기존 코드를 yolov3를 사용한 using yolov3.py 코드로 변경해 더 정확하고 다양한 객체 측정 가능
+[23.09.11] 
+* 카메라 모듈을 아두이노와 연결
+* 기존 코드를 yolov3를 사용한 using yolov3.py 코드로 변경해 더 정확하고 다양한 객체 측정 가능
+
+<br></br>
+<br></br>
+
+<table>
+  <tr>
+    <td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/95af4a87-203e-4aae-9a6c-4d22c110df22" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/de9d18da-813b-4f19-82b7-15ebe7d2f82d" /></td><td><img alt="" src="https://github.com/ja2in/Stray-cat-extermination-system/assets/101400945/fb83f20f-3011-4fc5-9c74-791c918afb03" /></td>
+  <tr>
+</table>
+
+[23.10.16]
+* 아두이노에 소리모듈을 연결 후 테스트 완료
+* 고양이 외 고라니를 객체 인식할 수 있도록 Colab을 통해 객체 학습을 진행
 
