@@ -8,7 +8,7 @@
 ## :v: 설계 사양 (개발환경)
 * Python (3.10 ver)
 * OpenCV (4.1.2 ver)
-* YOLO
+* YOLOv8
 * 아두이노 (Arduino IDE v 2.0.3, AVR studio4)
 * DESKTOP (Windows 10)
 * 화상 카메라 (Microsoft Lifecam HD-3000)
