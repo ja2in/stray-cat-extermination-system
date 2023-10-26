@@ -73,3 +73,18 @@
 * 아두이노에 소리모듈 연결 후 고양이가 인식되었을 때 소리 출력 테스트 완료
 * 고양이 외 고라니를 객체 인식할 수 있도록 Colab을 통해 객체 학습을 진행
 
+<br></br>
+<br></br>
+
+<table>
+  <tr>
+    <td><img alt="" src="https://github.com/ja2in/stray-cat-extermination-system/assets/101400945/7049360f-df84-4359-8af4-a4f64fe635d9" /></td>
+    <td><img alt="" src="https://github.com/ja2in/stray-cat-extermination-system/assets/101400945/d0a5593b-301c-4fc2-9db3-567c3813afa0" width="500" height="300"/></td>
+    <td><img alt="" src="https://github.com/ja2in/stray-cat-extermination-system/assets/101400945/b783fa2f-973e-4eee-9978-fcdae4ca760c" /></td>
+  <tr>
+</table>
+
+[23.10.26]
+* YOLOv3에서 YOLOv8로 버전 업그레이드
+* Colab을 통해 고라니를 학습시켜 객체인식 가능
+
