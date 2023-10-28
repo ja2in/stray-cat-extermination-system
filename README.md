@@ -1,4 +1,7 @@
 # OpenCV와 IoT 기술을 이용한 야생동물 퇴치 시스템 
+<li>팀장 : <a href="https://github.com/ja2in">정재인</a></li>
+<li>팀원 : <a href="https://github.com/Wonseokchan">원석찬</a></li>
+<li>팀원 : 신동운</a></li>
 
 ## :point_up: 연구 배경 및 목적
 * 야생동물을 퇴치하는 '전기 펜스 설치', '담장 위 장애물 설치', '동작 감지', '스프링 쿨러' 등의 방법들은 복잡하고 고비용을 요구
