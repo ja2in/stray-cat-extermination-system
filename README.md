@@ -1,4 +1,4 @@
-# OpenCV와 IoT 기술을 이용한 야생동물 퇴치 시스템 
+# YOLOv8과 아두이노를 이용한 야생동물 퇴치 시스템 
 <li>팀장 : <a href="https://github.com/ja2in">정재인</a></li>
 <li>팀원 : <a href="https://github.com/Wonseokchan">원석찬</a></li>
 <li>팀원 : 신동운</a></li>
